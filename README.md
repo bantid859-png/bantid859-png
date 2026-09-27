@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Kumar Banti Das 👋
 
-<!--
-**bantid859-png/bantid859-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am a Computer Science graduate and aspiring Data Analyst with an interest in transforming raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+
+### 📊 Featured Projects
+
+- **Retail Profit Leakage & Demand Analysis**
+  - Python
+  - SQL Server
+  - Power BI
+  - Data Cleaning
+  - Data Visualization
+
+- **SQL Data Analysis Project**
+  - SQL Server
+  - Data Analysis
+  - Business Queries
+
+- **Power BI Dashboard**
+  - Data Modeling
+  - DAX
+  - KPI Analysis
+  - Interactive Dashboard
+
+- **Tableau Hospital Dashboard**
+  - Data Visualization
+  - Dashboard Development
+  - Hospital Data Analysis
+
+### 🎯 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Analytics
+- Business Intelligence
+
+### 📫 Connect With Me
+
+- LinkedIn-https://www.linkedin.com/in/kumar-banti-das-76b53133a
+- Email-bantid859@gmail.com
+
