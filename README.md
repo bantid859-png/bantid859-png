@@ -47,10 +47,10 @@ I am a Computer Science graduate and aspiring Data Analyst with an interest in t
 - Advanced SQL
 - Power BI
 - Data Analytics
-- Business Intelligence
+
 
 ### 📫 Connect With Me
 
 - LinkedIn-https://www.linkedin.com/in/kumar-banti-das-76b53133a
-- Email-bantid859@gmail.com
+- Email  -bantid859@gmail.com
 
